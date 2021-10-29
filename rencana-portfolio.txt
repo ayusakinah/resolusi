@@ -1,6 +1,8 @@
 RENCANA PORTFOLIO
 
 - Portal Login
+  1. Portal submit biasa
+  2. Portal instagram
 - Website Statik
 - Website Dinamis
 - Database
