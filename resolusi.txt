@@ -1,4 +1,5 @@
 RESOLUSI
-- Membuat portfolio
 - Konsisten belajar web development
+- Membuat portfolio
 - Mencari internship sebelum semester 6
+- Membuat banyak portfolio => Membuat real project sendiri
