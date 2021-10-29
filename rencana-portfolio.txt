@@ -7,4 +7,5 @@ RENCANA PORTFOLIO
 - Website Dinamis
 - Database
 - Website Kompleks
+- Menghubungkan website dengan web hosting untuk tiap perkembangan
 - Aplikasi Android
